@@ -14,5 +14,7 @@ public class HelloWorld extends Activity {
         TextView tv = new TextView(this);
         tv.setText("Hello, Android");
         setContentView(tv);
+        
+        //add a line
     }
 }
